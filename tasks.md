@@ -47,10 +47,10 @@ Derived from [PRD.md](PRD.md).
 
 ## Success criteria (verification)
 
-- [ ] Verify adding, listing, and removing alarms works correctly via CLI
-- [ ] Verify a scheduled alarm rings audibly within 1 second of its target time
-- [ ] Verify a rung alarm no longer appears in `list`
-- [ ] Verify zero external dependencies beyond Python’s standard library
+- [x] Verify adding, listing, and removing alarms works correctly via CLI
+- [x] Verify a scheduled alarm rings audibly within 1 second of its target time
+- [x] Verify a rung alarm no longer appears in `list`
+- [x] Verify zero external dependencies beyond Python’s standard library
 
 ## Explicitly out of scope (do not build)
 
